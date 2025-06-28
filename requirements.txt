@@ -3,3 +3,4 @@ PIL
 pandas
 matplotlib
 openpyxl
+io
